@@ -46,8 +46,7 @@ async function main() {
             auth: NOTION_TOKEN
         },
         transformation: (item) => {
-            const hasTaste = item.pizzaToppings.includes("pineapple") ? "nope" : "yea";
-            item.hasTaste = hasTaste;
+            item.hasTaste = item.pizzaToppings.includes("pineapple") ? "nope" : "yea";
             return item;
         },
         fields: {
