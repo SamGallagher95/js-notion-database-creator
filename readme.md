@@ -67,6 +67,7 @@ async function main() {
                 path: [ "hasTaste" ]
             }
         }
-    })
+    });
+    await db.create();
 }
 ```
