@@ -1,4 +1,4 @@
-import { NotionDatabase } from '../src/index.js';
+import { NotionDatabase } from 'js-notion-database-creator';
 
 var NOTION_TOKEN = process.env.NOTION_TOKEN;
 

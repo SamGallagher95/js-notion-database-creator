@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamGallagher95/ts-notion-database-creator.git"
+    "url": "git+https://github.com/SamGallagher95/js-notion-database-creator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SamGallagher95/ts-notion-database-creator/issues"
+    "url": "https://github.com/SamGallagher95/js-notion-database-creator/issues"
   },
-  "homepage": "https://github.com/SamGallagher95/ts-notion-database-creator#readme",
+  "homepage": "https://github.com/SamGallagher95/js-notion-database-creator#readme",
   "type": "module",
   "dependencies": {
     "@notionhq/client": "^1.0.4",
