@@ -1,0 +1,30 @@
+{
+  "name": "js-notion-database-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamGallagher95/ts-notion-database-creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamGallagher95/ts-notion-database-creator/issues"
+  },
+  "homepage": "https://github.com/SamGallagher95/ts-notion-database-creator#readme",
+  "type": "module",
+  "dependencies": {
+    "@notionhq/client": "^1.0.4",
+    "@tryfabric/martian": "^1.2.4",
+    "cli-progress": "^3.11.1",
+    "mustache": "^4.2.0"
+  }
+}
