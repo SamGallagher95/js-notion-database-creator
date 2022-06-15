@@ -1,6 +1,6 @@
 {
   "name": "js-notion-database-creator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple tool to create Notion databases from local JSON files.",
   "main": "src/index.js",
   "files": [
@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/SamGallagher95/js-notion-database-creator.git"
   },
-  "keywords": [],
+  "keywords": [
+    "notion",
+    "database"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
