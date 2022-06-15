@@ -1,7 +1,7 @@
 {
   "name": "js-notion-database-creator",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A simple tool to create Notion databases from local JSON files.",
   "main": "src/index.js",
   "files": [
     "src"
